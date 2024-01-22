@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf64b927b124bdf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vicker IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vicker IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vicker IP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbfb7c3c14f1393b",
+  "active": "cf64b927b124bdf2",
   "lastOpenFiles": [
+    "Vicker IP.md",
     "Pasted image 20240122190807.png",
-    "Pasted image 20240122190515.png",
-    "Vicker IP.md"
+    "Pasted image 20240122190515.png"
   ]
 }
